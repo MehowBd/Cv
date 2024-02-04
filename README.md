@@ -1,7 +1,7 @@
 # English
 ## Hi 👋, I'm Michal!
 
-I graduated from the Automation and Robotics program at AGH (AGH University of Science and Technology) in Krakow in 2024. My technical skills encompass knowledge of various programming languages; however, the above repository is intended to demonstrate a partial result of my work during my studies (Python related🐍). I'm Junior PL/SQL Developer with strong analytical background working on a daily basis in Scrum team that is responsible for the design, development, implementation and maintenance of the Finevare solution, which is a comprehensive software solution to support banks and insurance companies in IFRS 9 / 17 compliance.
+I graduated from the Automation and Robotics program at AGH (AGH University of Science and Technology) in Cracow in 2024. My technical skills encompass knowledge of various programming languages; however, the above repository is intended to demonstrate a partial result of my work during my studies (Python related🐍). I'm Junior PL/SQL Developer with strong analytical background working on a daily basis in Scrum team that is responsible for the design, development, implementation and maintenance of the Finevare solution, which is a comprehensive software solution to support banks and insurance companies in IFRS 9 / 17 compliance.
 
 #### Structure of the repository
 The repository is divided into the following folders, depending on the subject and type of work:
