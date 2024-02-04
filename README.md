@@ -1,7 +1,7 @@
 # English
 ## Hi 👋, I'm Michal!
 
-I am a student of automation and robotics at the AGH University of Science and Technology in Krakow. My technical skills include knowledge of many programming languages, however, the above repository is intended to show a partial result of my work done during my studies (Python related🐍).
+I graduated from the Automation and Robotics program at AGH (AGH University of Science and Technology) in Krakow in 2024. My technical skills encompass knowledge of various programming languages; however, the above repository is intended to demonstrate a partial result of my work during my studies (Python related🐍). I'm Junior PL/SQL Developer with strong analytical background working on a daily basis in Scrum team that is responsible for the design, development, implementation and maintenance of the Finevare solution, which is a comprehensive software solution to support banks and insurance companies in IFRS 9 / 17 compliance.
 
 #### Structure of the repository
 The repository is divided into the following folders, depending on the subject and type of work:
@@ -23,7 +23,7 @@ Greetings!🤓
 # Polish
 ## Cześć 👋, jestem Michał!
 
-Jestem studentem automatyki i robotyki na Akademii Górniczo-Hutniczej w Krakowie. Moje umiejętności techniczne obejmują znajomość wielu języków programowania, jednakże powyższe repozytorium ma na celu ukazać częsciowy efekt moje pracy wykonanej podczas moich studiów (Python related🐍).
+Skończyłem studia inżynieryjne z automatyki i robotyki na Akademii Górniczo-Hutnieczej w Krakowie w 2024 roku. Moje umiejętności techniczne obejmują znajomość wielu języków programowania, jednakże powyższe repozytorium ma na celu ukazać częściowy efekt moje pracy wykonanej podczas moich studiów (Python related🐍). Jestem młodszym programistą PL/SQL z silnym zapleczem analitycznym pracującym na co dzień w zespole Scrum, który jest odpowiedzialny za projektowanie, rozwój, wdrażanie i utrzymanie rozwiązania Finevare, które jest kompleksowym rozwiązaniem wspierającym banki i firmy ubezpieczeniowe w zakresie zgodności z MSSF 9/17.
 
 #### Struktura repozytorium
 Repozytorium podzielone jest na następujące foldery, zależnie od przedmiotu i rodzaju prac:
